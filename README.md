@@ -91,14 +91,3 @@ GitHub: Divya1334
 LinkedIn: https://www.linkedin.com/in/divya-k-338a0a264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 Email: divyakothuru2895@gmail.com
-
-
-
----
-
-📜 License
-
-This project is intended for academic or educational use only.
-
-📌 You can copy this and paste it as a file named README.md in your GitHub repo.  
-Let me know if you'd like me to generate and upload it into your project folder for you.
